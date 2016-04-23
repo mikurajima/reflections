@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Nothing speciall happened.
+For preparing to accept files and to work as repository.
