@@ -27,3 +27,9 @@ Trying new idea or thought might make you to see overview picture harder.
 How do the diagrams help you visualize the branch structure?
 
 git log —graph —oneline brachName1 branchName2
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+avoid confusion that could happen in near future.
