@@ -21,3 +21,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Trying new idea or thought might make you to see overview picture harder.
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+git log —graph —oneline brachName1 branchName2
