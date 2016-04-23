@@ -15,3 +15,9 @@ Different from repository, file in a staging are would be managed by each.
 How can you use the staging area to make sure you have one commit per logical change?
 
 ???
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Trying new idea or thought might make you to see overview picture harder.
