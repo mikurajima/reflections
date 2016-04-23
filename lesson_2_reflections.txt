@@ -2,3 +2,16 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Nothing speciall happened.
 For preparing to accept files and to work as repository.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Different from working directory, file in a staging area would tell us diff info.
+Different from repository, file in a staging are would be managed by each.
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+???
