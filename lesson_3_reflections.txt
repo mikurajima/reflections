@@ -9,3 +9,9 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork is command to copy others code.
 Clone is command to copy my code to my local computer.
 Branch is source that is different from main source on the purpose of experimental or new trial and so on.
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When I want to go back and make another child as a new master.
