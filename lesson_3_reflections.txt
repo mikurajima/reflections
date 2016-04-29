@@ -1,3 +1,11 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 When I or co-working people want to share code through network.
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is command to copy others code.
+Clone is command to copy my code to my local computer.
+Branch is source that is different from main source on the purpose of experimental or new trial and so on.
